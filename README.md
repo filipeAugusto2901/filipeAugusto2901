@@ -1,1 +1,1 @@
-<iframe title="meu curriculo em BI - Página 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWExZDU3MTAtZjM5My00MGNjLThhYjQtMDYxMTMyYmRhNzgxIiwidCI6ImM1ZGFkZTc4LTIzY2EtNGM0OC04NmM1LWFiOGE5Y2RmNmQ3OSJ9" frameborder="0" allowFullScreen="true"></iframe>
+https://app.powerbi.com/view?r=eyJrIjoiZWExZDU3MTAtZjM5My00MGNjLThhYjQtMDYxMTMyYmRhNzgxIiwidCI6ImM1ZGFkZTc4LTIzY2EtNGM0OC04NmM1LWFiOGE5Y2RmNmQ3OSJ9
