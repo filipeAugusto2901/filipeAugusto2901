@@ -1,4 +1,1 @@
-# Hola, mucho gusto xD
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/filipeAugusto2901)](https://github.com/filipeAugusto2901)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/filipeaugusto29/)](https://www.linkedin.com/in/filipeaugusto29/)
+<iframe title="meu curriculo em BI - Página 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZWExZDU3MTAtZjM5My00MGNjLThhYjQtMDYxMTMyYmRhNzgxIiwidCI6ImM1ZGFkZTc4LTIzY2EtNGM0OC04NmM1LWFiOGE5Y2RmNmQ3OSJ9" frameborder="0" allowFullScreen="true"></iframe>
